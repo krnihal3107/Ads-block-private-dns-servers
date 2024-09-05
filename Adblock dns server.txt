@@ -46,7 +46,6 @@ dnspub.restena.lu
 dns.hostux.net
 adfree.usableprivacy.net
 dns-dot.dnsforfamily.com
-
 dns.brahma.world
 syd.adfilter.net
 doh-sg.blahdns.com
