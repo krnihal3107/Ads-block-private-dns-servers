@@ -74,5 +74,29 @@ noads.imbuffering.com
 adblockersite.com
 adblock.indianets.net
 pihole.aws.ketan.dev
-
+zzz.luigi.ink
+dns.daarrk.tech
+dns.fgbk.net
+dns.sarakas.net
+dns.schlagheck.berlin
+tigrons.ru
+adblock.krctech.dev
+nephos.rocksolidtech.link
+dns.serverfox.ru
+casa1.www1.biz
+dns.auapi.fun
+mikrobill.dns-cloud.net
+atsilva.link
+fennec.blackyfox.net
+dns.teckhawk.be
+dns.doda.dev
+adfight.ru
+net01.youcef.io
+ns.nerdytechgeeks.co.za
+dnsmm.mywire.org
+dns.lvqing.eu.org
+dns.johnlez.com
+goose.buckyfan.net
+dns.jimwelanobong.com
+smartphone-niels.pcbrdh8v6m.digitallink.be
 
